@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Instructions for completing the final project on current research in
+  the area of mantle convection.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

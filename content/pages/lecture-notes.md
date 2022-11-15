@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Sample lecture notes including those from guest lecturers.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ Introduction
 Rick O'Connell and Bill McDonough
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/100298_notes)) (Courtesy of Richard O'Connell and William McDonough. Used with permission.)
+({{% resource_link 5e072934-fe97-903b-c09f-c782c90911fe "PDF" %}}) (Courtesy of Richard O'Connell and William McDonough. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Basics of Convection
 Rick O'Connell and Brad Hager
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/240298_notes)) (Courtesy of Richard O'Connell and Bradford Hager. Used with permission.)
+({{% resource_link 566808bb-e0ba-ae22-c11b-caa6e89060f4 "PDF" %}}) (Courtesy of Richard O'Connell and Bradford Hager. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ Isotope Systems and Geochemistry
 Stan Hart
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/030398_notes)) (Courtesy of Stan Hart and scribed by Jamie Kellogg.  Used with permission.)
+({{% resource_link 7f02e4cc-6ac4-2e03-95ff-2f26ad931c9e "PDF" %}}) (Courtesy of Stan Hart and scribed by Jamie Kellogg.  Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ More on Mantle Dynamics
 Brad Hager, Rick O'Connell, Louise Kellogg
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/170398_notes)) (Courtesy of Shijie Zhong. Used with permission.)
+({{% resource_link 6a3e68b1-29eb-81fd-706e-80e98cd1f2ff "PDF" %}}) (Courtesy of Shijie Zhong. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ Seismology Part I: Subduction Zones
 Rob Van Der Hilst
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/310398_notes))
+({{% resource_link 90bbbf6d-0e14-a1a0-4e7f-9a19f4aba0c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
