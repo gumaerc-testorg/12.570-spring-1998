@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Reading assignments organized by lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ Introduction
 Rick O'Connell and Bill McDonough
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_100298))
+({{% resource_link c9cc359b-94a9-8573-d7a1-122d85c61e90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Melting and Differentiation
 Tim Grove
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_170298))
+({{% resource_link a6ea89aa-59fc-c1d5-3d92-d397c61e9589 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Basics of Convection
 Rick O'Connell and Brad Hager
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_240298))
+({{% resource_link e0dc60ce-6fb7-1ac2-9306-e6f305824c62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ Isotope Systems and Geochemistry
 Stan Hart
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_030398))
+({{% resource_link f6e862f2-5d14-a4d6-3e39-5c9800300ada "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ More on Mantle Dynamics
 Brad Hager, Rick O'Connell, Louise Kellogg
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_170398))
+({{% resource_link edd5b642-9f00-a271-6240-793518e52a9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ Seismology Part I: Subduction Zones
 Rob Van Der Hilst
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_310398))
+({{% resource_link 26135a6f-5d36-be3e-46e7-419ec90fb4f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Constraints from Noble Gas Data on Mantle Mixing
 Louise Kellogg and Stein Jacobsen
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_070498))
+({{% resource_link c1478d10-daea-1c68-427e-604e022938a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +143,7 @@ Seismology Part II: Constraints on Mantle Structure from Global Tomography
 Rob Van Der Hilst
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_140498))
+({{% resource_link 3b61435a-2c7c-c402-0b0a-5280f52e879e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +173,7 @@ Mantle Stratification (or lack thereof)
 Tom Jordan
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/reading_050598))
+({{% resource_link 336e5c25-157f-1b02-732d-66e777402624 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
