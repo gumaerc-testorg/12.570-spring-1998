@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/26135a6f5d36be3e46e7419ec90fb4f6_reading_310398.pdf
+file_size: 15641
 file_type: application/pdf
 learning_resource_types:
 - Readings
