@@ -3,7 +3,7 @@ content_type: resource
 description: This file asks the students to prepare for Tim Grove's lecture, and include
   assignments on depth of melting, the effects of water and melting style for the
   preperation.
-file: /courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/a6ea89aa59fcc1d53d92d397c61e9589_reading_170298.pdf
+file: /ol-ocw-studio-app/courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/a6ea89aa59fcc1d53d92d397c61e9589_reading_170298.pdf
 file_size: 12829
 file_type: application/pdf
 learning_resource_types:
