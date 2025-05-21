@@ -2,7 +2,7 @@
 content_type: resource
 description: The file contains reading assignments by O'Connell and Hager which prescribes
   the students with reading list to prepare for third session.
-file: /ol-ocw-studio-app/courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/e0dc60ce6fb71ac29306e6f305824c62_reading_240298.pdf
+file: /courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/e0dc60ce6fb71ac29306e6f305824c62_reading_240298.pdf
 file_size: 102690
 file_type: application/pdf
 learning_resource_types:
