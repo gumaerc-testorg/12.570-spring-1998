@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/f6e862f25d14a4d63e395c9800300ada_reading_030398.pdf
+file: /courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/f6e862f25d14a4d63e395c9800300ada_reading_030398.pdf
 file_size: 20658
 file_type: application/pdf
 learning_resource_types:
