@@ -4,7 +4,7 @@ description: This file contains reading assignment by Louise Kellogg and Stein J
   prescribing the papers on Noble gases and earth's accretion, the argon contraints
   on mantle structure, tectonic implications of radiogenic noble gases in planetary
   atmospheres and binary mixing of enriched and undegassed (primitive?) mantle components.
-file: /courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/c1478d10daea1c68427e604e022938a9_reading_070498.pdf
+file: /ol-ocw-studio-app/courses/12-570-seminar-in-geophysics-mantle-convection-spring-1998/c1478d10daea1c68427e604e022938a9_reading_070498.pdf
 file_size: 21558
 file_type: application/pdf
 learning_resource_types:
